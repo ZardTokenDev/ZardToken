@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$ZARD Token | Charizard-Inspired Crypto on Solana</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #FF6B00;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #FF6B00;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>$ZARD Token</h1>
+        <p>The Charizard-Inspired Cryptocurrency on Solana</p>
+    </header>
 
+    <main>
+        <section>
+            <h2>About $ZARD</h2>
+            <p>$ZARD is an SPL token launched on the Solana blockchain via pump.fun, inspired by the iconic 1st Edition Charizard Base Set Holo card from 1999.</p>
+        </section>
+
+        <section>
+            <h2>Key Features</h2>
+            <ul>
+                <li>Total supply: 1,999,999 tokens</li>
+                <li>0.4% deflationary burn on each transfer</li>
+                <li>NFT staking and minting</li>
+                <li>Gamified elements on pump.fun</li>
+                <li>Governance rights for pump.fun's TCG-inspired DeFi ecosystem</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Get Started</h2>
+            <p>Ready to join the $ZARD community? Get involved now!</p>
+            <a href="#" class="cta-button">Buy $ZARD</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 $ZARD Token. All rights reserved.</p>
+    </footer>
+</body>
+</html>
